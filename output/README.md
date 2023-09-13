@@ -1,5 +1,12 @@
-Please replace the contents of this file with relevant instructions for your repository or remove this file entirely.
+The output of experiments in Section 5.1 are included in:
+1_fix0_result, 2_fix1_result and 3_random_result,
+corresponding to results under $\sigma^2_{\beta} = 0,0.1$ and $1$.
 
-This directory would generally contain results of simulations or real data analyses. Also, intermediate output files might be placed here, cached to avoid having to rerun computationally-intensive steps of the workflow. 
+The output of experiments in Section 5.2 under linear setting are included in:
+4_linear and 5_linear_r. 
 
+The output of experiments in Section B.5 under nonlinear setting are included in:
+6_nonlinear and 7_nonlinear_r.
 
+The output of real data analysis in Section 6 are included in:
+8_realdata.
